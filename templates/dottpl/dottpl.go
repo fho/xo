@@ -5,8 +5,8 @@ import (
 	"embed"
 	"errors"
 
-	"github.com/xo/xo/templates"
-	xo "github.com/xo/xo/types"
+	"github.com/fho/xo/templates"
+	xo "github.com/fho/xo/types"
 )
 
 func init() {

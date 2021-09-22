@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	models "github.com/xo/xo/_examples/django/sqlserver"
+	models "github.com/fho/xo/_examples/django/sqlserver"
 )
 
 func runSqlserver(ctx context.Context, db *sql.DB) error {

@@ -20,11 +20,11 @@ import (
 	//_ "github.com/sijms/go-ora/v2"
 
 	// models
-	"github.com/xo/xo/_examples/django/mysql"
-	"github.com/xo/xo/_examples/django/oracle"
-	"github.com/xo/xo/_examples/django/postgres"
-	"github.com/xo/xo/_examples/django/sqlite3"
-	"github.com/xo/xo/_examples/django/sqlserver"
+	"github.com/fho/xo/_examples/django/mysql"
+	"github.com/fho/xo/_examples/django/oracle"
+	"github.com/fho/xo/_examples/django/postgres"
+	"github.com/fho/xo/_examples/django/sqlite3"
+	"github.com/fho/xo/_examples/django/sqlserver"
 
 	"github.com/xo/dburl"
 	"github.com/xo/dburl/passfile"
