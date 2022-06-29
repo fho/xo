@@ -22,10 +22,10 @@ require (
 	github.com/traefik/yaegi v0.10.0
 	github.com/xo/dburl v0.9.0
 	github.com/yookoala/realpath v1.0.0
-	golang.org/x/crypto v0.0.0-20210920023735-84f357641f63 // indirect
-	golang.org/x/mod v0.5.0 // indirect
-	golang.org/x/sys v0.0.0-20210917161153-d61c044b1678 // indirect
-	golang.org/x/tools v0.1.6
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/sys v0.0.0-20211019181941-9d821ace8654 // indirect
+	golang.org/x/tools v0.1.11
 	mvdan.cc/gofumpt v0.1.1
 )
 
